@@ -1,0 +1,1 @@
+A simple example of how to implement Selenium's Page Object design pattern.
