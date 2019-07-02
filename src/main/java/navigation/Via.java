@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
  */
 public class Via {
 
-    public static ClickNavigator klik(By locator){
+    public static ClickNavigator click(By locator){
         return new ClickNavigator(locator);
     }
 

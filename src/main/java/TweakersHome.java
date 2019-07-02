@@ -25,6 +25,6 @@ public class TweakersHome extends TweakersPage {
 
     public TweakersPricewatch goToPricewatch(){
         TweakersPricewatch tweakersPricewatch = new TweakersPricewatch(this.browser);
-        return tweakersPricewatch.goToPage(Via.klik(this.priceWatchLink));
+        return tweakersPricewatch.goToPage(Via.click(this.priceWatchLink));
     }
 }
