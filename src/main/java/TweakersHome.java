@@ -1,6 +1,6 @@
 
 import browser.Browser;
-import navigatie.Via;
+import navigation.Via;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 

@@ -1,5 +1,5 @@
 import browser.Browser;
-import navigatie.Navigator;
+import navigation.Navigator;
 
 /**
  * Base class for page objects.

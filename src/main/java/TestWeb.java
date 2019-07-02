@@ -1,6 +1,6 @@
 import browser.Browser;
 import browser.BrowserFactory;
-import navigatie.Via;
+import navigation.Via;
 
 public class TestWeb {
 

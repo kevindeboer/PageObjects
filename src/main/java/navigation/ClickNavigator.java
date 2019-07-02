@@ -1,4 +1,4 @@
-package navigatie;
+package navigation;
 
 import browser.Browser;
 import org.openqa.selenium.By;
