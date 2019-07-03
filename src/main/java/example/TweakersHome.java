@@ -1,3 +1,4 @@
+package example;
 
 import browser.Browser;
 import navigation.Via;

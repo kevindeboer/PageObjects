@@ -1,3 +1,5 @@
+package page;
+
 import browser.Browser;
 import navigation.Navigator;
 

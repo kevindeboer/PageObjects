@@ -1,3 +1,5 @@
+package example;
+
 import browser.Browser;
 
 public class TweakersPricewatch extends TweakersPage {

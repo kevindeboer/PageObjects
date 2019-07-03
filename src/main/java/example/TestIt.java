@@ -1,8 +1,10 @@
+package example;
+
 import browser.Browser;
 import browser.BrowserFactory;
 import navigation.Via;
 
-public class TestWeb {
+public class TestIt {
 
     public static void main(String[] args){
 
